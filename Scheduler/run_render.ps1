@@ -1,0 +1,3 @@
+$ROOT_DIR = "C:\Users\Administrator\Smart4_Tech"  # Updated path
+
+# Rest of the script remains the same...

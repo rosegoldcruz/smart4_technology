@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Cache and metadata
+.cache/
+pip-wheel-metadata/
+
+# Logs and databases
+*.log
+logs/
+*.db
+
+# JSON data
+daily_trends*.json
+enhanced_trends_example.json
+
+# OS files
+.DS_Store
+
+# Data directories
+data/
