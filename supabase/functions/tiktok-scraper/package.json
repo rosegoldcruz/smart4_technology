@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-scraper",
+  "version": "1.0.0",
+  "description": "TikTok documentation scraper",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^22.3.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
